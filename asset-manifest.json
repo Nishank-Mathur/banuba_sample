@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a520d7c6.css",
-    "main.js": "/static/js/main.8c846358.js",
+    "main.css": "/static/css/main.2d3355f1.css",
+    "main.js": "/static/js/main.9d3159e6.js",
     "static/media/BanubaSDK.simd.wasm": "/static/media/BanubaSDK.simd.e45c78e39e865e717ef0.wasm",
     "static/media/BanubaSDK.wasm": "/static/media/BanubaSDK.b411ef5781a6c8e94b37.wasm",
     "static/media/face_tracker.zip": "/static/media/face_tracker.61f259c3a24d67b84e47.zip",
@@ -10,11 +10,11 @@
     "static/media/eyes.zip": "/static/media/eyes.a038bf72d40aca8dbea9.zip",
     "static/media/BanubaSDK.data": "/static/media/BanubaSDK.ccf8db33738d35b2593c.data",
     "index.html": "/index.html",
-    "main.a520d7c6.css.map": "/static/css/main.a520d7c6.css.map",
-    "main.8c846358.js.map": "/static/js/main.8c846358.js.map"
+    "main.2d3355f1.css.map": "/static/css/main.2d3355f1.css.map",
+    "main.9d3159e6.js.map": "/static/js/main.9d3159e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.a520d7c6.css",
-    "static/js/main.8c846358.js"
+    "static/css/main.2d3355f1.css",
+    "static/js/main.9d3159e6.js"
   ]
 }
